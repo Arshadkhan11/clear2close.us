@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+clear2close.us	TRUE	/	FALSE	1999999999	PHPSESSID	10ffdbd33cca27e6c0e428d63491f5e9
+
